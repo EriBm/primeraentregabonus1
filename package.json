@@ -1,0 +1,23 @@
+{
+  "name": "repositorio",
+  "version": "1.0.0",
+  "description": "Bonus primera entrega",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EriBm/primeraentregabonus1.git"
+  },
+  "author": "Erica Barrios erica.barrios@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EriBm/primeraentregabonus1/issues"
+  },
+  "homepage": "https://github.com/EriBm/primeraentregabonus1#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "yargs": "^13.2.4"
+  }
+}
